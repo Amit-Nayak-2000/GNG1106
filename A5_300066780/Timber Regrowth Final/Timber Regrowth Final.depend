@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540180606 source:d:\documents\a5_300066780\timber regrowth final\template.c
+	<stdio.h>
+	<math.h>
+	<stdbool.h>
+

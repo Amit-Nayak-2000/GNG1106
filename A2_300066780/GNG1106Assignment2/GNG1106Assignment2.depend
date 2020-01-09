@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538278590 source:d:\documents\c++ programming\gng1106assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
